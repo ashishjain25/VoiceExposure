@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ProvisionedUser" max_length="40" name="x_407772_voiceexpo_provisioneduser" type="collection">
+        <element label="AutoGeneratePassword" max_length="40" name="autogeneratepassword" type="boolean"/>
+        <element default="Completed" label="CompletionStatus" max_length="50" name="completionstatus" type="string"/>
+        <element label="DeviceMacAddress" max_length="255" name="devicemacaddress" type="string"/>
+        <element label="DeviceType" max_length="255" name="devicetype" type="string"/>
+        <element label="Division" max_length="255" name="division" type="string"/>
+        <element label="Email" max_length="255" name="email" type="string"/>
+        <element label="ExtensionMobility" max_length="40" name="extensionmobility" type="boolean"/>
+        <element label="FirstName" max_length="255" name="firstname" type="string"/>
+        <element label="LastName" max_length="255" name="lastname" type="string"/>
+        <element label="LineNumber" max_length="255" name="linenumber" type="string"/>
+        <element label="password" max_length="40" name="password" type="password"/>
+        <element label="PIN" max_length="255" name="pin" type="string"/>
+        <element label="SelfService" max_length="40" name="selfservice" type="boolean"/>
+        <element label="ServiceType" max_length="255" name="servicetype" type="string"/>
+        <element label="site" max_length="255" name="site" type="string"/>
+        <element label="snr" max_length="40" name="snr" type="boolean"/>
+        <element label="telephoneNumber" max_length="255" name="telephonenumber" type="string"/>
+        <element label="userid" max_length="255" name="userid" type="string"/>
+        <element label="VoiceMail" max_length="40" name="voicemail" type="boolean"/>
+    </element>
+</database>

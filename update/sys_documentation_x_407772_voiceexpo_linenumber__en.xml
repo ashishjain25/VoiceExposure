@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="LineNumber" language="en" table="x_407772_voiceexpo_linenumber">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>LineNumber</label>
+            <language>en</language>
+            <name>x_407772_voiceexpo_linenumber</name>
+            <plural>LineNumbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-30 10:26:43</sys_created_on>
+            <sys_id>ee155535db3c00101ab20d53ca961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>LineNumber</sys_name>
+            <sys_package display_value="VoiceExposure" source="x_407772_voiceexpo">9fdaa094dbb000101ab20d53ca96196e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VoiceExposure">9fdaa094dbb000101ab20d53ca96196e</sys_scope>
+            <sys_update_name>sys_documentation_x_407772_voiceexpo_linenumber__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-30 10:26:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

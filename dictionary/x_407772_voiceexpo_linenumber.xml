@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="LineNumber" max_length="40" name="x_407772_voiceexpo_linenumber" type="collection">
+        <element label="Lineid" max_length="32" name="lineid" reference="x_407772_voiceexpo_sites" reference_qual="idANYTHING^EQ" reference_qual_condition="idANYTHING^EQ" type="reference"/>
+        <element label="privateNumber" max_length="50" name="privatenumber" type="string"/>
+        <element label="publicNumber" max_length="50" name="publicnumber" type="string"/>
+        <index name="index">
+            <element name="lineid"/>
+        </index>
+    </element>
+</database>

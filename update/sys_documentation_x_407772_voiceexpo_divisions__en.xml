@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Divisions" language="en" table="x_407772_voiceexpo_divisions">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Divisions</label>
+            <language>en</language>
+            <name>x_407772_voiceexpo_divisions</name>
+            <plural>Divisions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-25 15:32:15</sys_created_on>
+            <sys_id>551b6058dbb000101ab20d53ca961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Divisions</sys_name>
+            <sys_package display_value="VoiceExposure" source="x_407772_voiceexpo">9fdaa094dbb000101ab20d53ca96196e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VoiceExposure">9fdaa094dbb000101ab20d53ca96196e</sys_scope>
+            <sys_update_name>sys_documentation_x_407772_voiceexpo_divisions__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-25 15:32:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

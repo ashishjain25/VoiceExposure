@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Divisions" max_length="40" name="x_407772_voiceexpo_divisions" type="collection">
+        <element default="KAYES KOMMS belong to KAYES KOMMS" label="Description" max_length="255" name="description" type="string"/>
+        <element default="5a0c1ceeae8b390bb33eade0" label="ID" max_length="255" name="id" type="string"/>
+        <element default="KAYES KOMMS" label="Name" max_length="255" name="name" type="string"/>
+    </element>
+</database>
